@@ -1,6 +1,0 @@
-- Mainly communicate on Slack and check regularly for updates
-- Support each other: offer to help teammates out, and proactively reach out if stuck on/need clarification for anything
-- Treat all team members with respect
-- Meet all deadlines: If you anticipate being unable to meet a deadline, communicate this to the team at least 24-48 hours in advance and suggest a realistic new timeframe
-- Attend all scheduled classes/group meetings: If you cannot make it, notify the team in advance and catch up on missed content through meeting notes/Slack communications
-- Finish work on time and be proactive
