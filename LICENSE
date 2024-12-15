@@ -1,21 +1,24 @@
-MIT License
+Proprietary View-Only Source License
+Copyright (c) [Year] [Your Name/Organization]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to view and study the source code for personal, educational, and non-commercial purposes only, subject to the following conditions:
 
-Copyright (c) 2024 ucsb-cs184-f24
+RESTRICTIONS ON USE
+a. You may NOT use, copy, modify, merge, publish, distribute, sublicense, sell, create derivative works from, or create any applications based on any part of the Software.
+b. You may NOT use any part of the source code in other software projects, commercial or non-commercial.
+c. You may NOT reverse engineer, decompile, or disassemble any compiled portions of the Software except as permitted by law.
+VIEWING PERMISSIONS
+a. You MAY view, read, and study the source code for educational and learning purposes.
+b. You MAY share links to the official repository containing this source code.
+c. You MAY create personal, private copies for the purpose of studying the code.
+ATTRIBUTION REQUIREMENTS
+a. You must retain this license and copyright notice in all copies of the Software.
+b. Any reference to or use of this code in educational materials must include appropriate attribution.
+WARRANTY AND LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+TERMINATION
+This license automatically terminates if you violate any of these restrictions. Upon termination, you must destroy all copies of the Software in your possession.
+GENERAL
+a. This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+b. If any provision of this license is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+For permissions beyond the scope of this license, please contact: [Your Contact Information]
